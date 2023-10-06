@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "title": "Product 1",
+        "description": "A stylish and versatile product for your daily needs. It comes with a sleek design and multiple features to make your life easier. Buy it now and upgrade your lifestyle!",
+        "price": 19.99,
+        "rating": 4.5,
+        "button": "Add to Cart",
+        "image_url": "https://i.postimg.cc/QtjFk0RD/01.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Product 2",
+        "description": "Enhance your daily routine with this premium product. Its quality and performance are unmatched. Add it to your cart now and experience the difference!",
+        "price": 29.99,
+        "rating": 4.2,
+        "button": "Add to Cart",
+        "image_url": "https://i.postimg.cc/Y09jTjry/02.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Product 3",
+        "description": "Affordable and reliable, this product is a must-have for every household. Buy it now to enjoy its benefits and value for money.",
+        "price": 14.99,
+        "rating": 4.7,
+        "button": "Add to Cart",
+        "image_url": "https://i.postimg.cc/brBdP8dY/03.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Product 4",
+        "description": "Experience convenience and style with this product. Add it to your cart for a seamless shopping experience.",
+        "price": 24.99,
+        "rating": 4.0,
+        "button": "Add to Cart",
+        "image_url": "https://i.postimg.cc/RCsWK1Gr/04.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Product 5",
+        "description": "Discover the latest innovation in this top-rated product. Buy it now and enjoy the ultimate user experience.",
+        "price": 39.99,
+        "rating": 4.9,
+        "button": "Add to Cart",
+        "image_url": "https://i.postimg.cc/CxD5330Y/05.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Product 6",
+        "description": "A budget-friendly option that offers great value. Add it to your cart now to save more while shopping.",
+        "price": 9.99,
+        "rating": 3.8,
+        "button": "Add to Cart",
+        "image_url": "https://i.postimg.cc/NfK54yPK/06.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Product 7",
+        "description": "Elevate your lifestyle with this high-quality product. Add to Cart and experience the difference it makes in your daily routine.",
+        "price": 34.99,
+        "rating": 4.3,
+        "button": "Add to Cart",
+        "image_url": "https://i.postimg.cc/15b4Y9LJ/07.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Product 8",
+        "description": "A versatile and reliable addition to your collection. Add it to your cart for a seamless shopping experience.",
+        "price": 17.99,
+        "rating": 4.6,
+        "button": "Add to Cart",
+        "image_url": "https://i.postimg.cc/d0Y3w5QC/08.jpg"
+    },
+    {
+        "id": 9,
+        "title": "Product 9",
+        "description": "Invest in quality with this top-rated product. Buy it now to enjoy its premium features and durability.",
+        "price": 49.99,
+        "rating": 4.8,
+        "button": "Add to Cart",
+        "image_url": "https://i.postimg.cc/FKVRR01B/09.jpg"
+    },
+    {
+        "id": 10,
+        "title": "Product 10",
+        "description": "A versatile and affordable choice for your needs. Add it to your cart now and enjoy its benefits.",
+        "price": 12.99,
+        "rating": 4.4,
+        "button": "Add to Cart",
+        "image_url": "https://i.postimg.cc/G23ps9yh/10.jpg"
+    },
+    {
+        "id": 11,
+        "title": "Product 11",
+        "description": "Upgrade your lifestyle with this premium product. Buy it now and experience the quality it offers.",
+        "price": 27.99,
+        "rating": 4.1,
+        "button": "Add to Cart",
+        "image_url": "https://i.postimg.cc/zBdGw5Cw/11.jpg"
+    },
+    {
+        "id": 12,
+        "title": "Product 12",
+        "description": "A stylish and versatile product for your daily needs. Add it to your cart now and enjoy the convenience it brings.",
+        "price": 19.99,
+        "rating": 4.5,
+        "button": "Add to Cart",
+        "image_url": "https://i.postimg.cc/RhNVX8dk/12.jpg"
+    }
+]
